@@ -1,16 +1,7 @@
 # astronomy_picture
 
-A new Flutter application.
+![image](https://user-images.githubusercontent.com/44406683/135886905-b4f9690e-6034-4887-b842-0b9d34f66362.png)
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/44406683/135887095-35162c3f-03fe-4ff7-bd69-f41b16ec99a8.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/44406683/135887467-a2d0ef55-61fd-4513-ab64-d7c0ade32a71.png)
